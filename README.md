@@ -114,31 +114,21 @@ Includes:
 ---
 
 ## Machine Learning Workflow
+```
 data
-
 ↓
-
 cleaning
-
 ↓
-
 encoding
-
 ↓
-
 feature alignment
-
 ↓
-
 training
-
 ↓
-
 evaluation
-
 ↓
-
 deployment-ready models
+```
 
 ---
 
